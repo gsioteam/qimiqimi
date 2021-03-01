@@ -1,6 +1,5 @@
 {
     "name": "qimiqimi",
-    "icon": "http://www.qimiqimi.co/template/default_pc/images/logo.jpg",
     "url": "http://www.qimiqimi.co/",
     "index": "index.js",
     "collections": [
